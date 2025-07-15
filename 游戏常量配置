@@ -1,0 +1,10 @@
+// 游戏常量配置
+export const GameConfig = {
+    BRICK_ROWS: 5,
+    BRICK_COLUMNS: 8,
+    BRICK_WIDTH: 80,
+    BRICK_HEIGHT: 30,
+    PADDLE_WIDTH: 120,
+    BALL_RADIUS: 10,
+    BALL_SPEED: 300
+};
